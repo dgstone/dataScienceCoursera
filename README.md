@@ -1,2 +1,2 @@
 # dataScienceCoursera
-John's Hopkins Data Scientist's Toolbox
+Johns Hopkins Data Scientist's Toolbox
